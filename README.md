@@ -1,1 +1,3 @@
-# scioto-mobile
+# scioto_mobile
+
+A new Flutter project.
